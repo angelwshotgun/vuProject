@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Tòa nhà 1",
+    "address": "Ngọc Hồi",
+    "representative": "abcde",
+    "phone": "0975001481",
+    "cccd": "11111111111",
+    "cccdDate": "30/08/2024",
+    "lat": "20.9975286",
+    "lng": "105.830370"
+  },
+  {
+    "id": 2,
+    "name": "Tòa nhà 2",
+    "address": "Ngọc Hồi",
+    "representative": "ab",
+    "phone": "0975001481",
+    "cccd": "11111111111",
+    "cccdDate": "31/08/2024",
+    "lat": "20.9974772",
+    "lng": "105.8533769"
+  },
+  {
+    "id": 3,
+    "name": "Tòa nhà 3",
+    "address": "Ngọc Hồi",
+    "representative": "bc",
+    "phone": "0978001234",
+    "cccd": "22222222222",
+    "cccdDate": "27/08/2024",
+    "lat": 20.997342602712788,
+    "lng": 105.83105748676049
+  },
+  {
+    "id": 4,
+    "name": "Tòa nhà 4",
+    "address": "Ngọc Hồi",
+    "representative": "c",
+    "phone": "0979123456",
+    "cccd": "33333333333",
+    "cccdDate": "27/08/2024",
+    "lat": "20.9981000",
+    "lng": "105.8325000"
+  },
+  {
+    "id": 5,
+    "name": "Tòa nhà 5",
+    "address": "Ngọc Hồi",
+    "representative": "d",
+    "phone": "0976123456",
+    "cccd": "44444444444",
+    "cccdDate": "27/08/2024",
+    "lat": "20.9985000",
+    "lng": "105.8340000"
+  },
+  {
+    "id": 6,
+    "name": "Tòa nhà 6",
+    "address": "Ngọc Hồi",
+    "representative": "e",
+    "phone": "0971234567",
+    "cccd": "55555555555",
+    "cccdDate": "27/08/2024",
+    "lat": 20.997973813773864,
+    "lng": 105.830011323117
+  },
+  {
+    "id": 7,
+    "name": "Tòa nhà 7",
+    "address": "Ngọc Hồi",
+    "representative": "f",
+    "phone": "0976234567",
+    "cccd": "66666666666",
+    "cccdDate": "27/08/2024",
+    "lat": 20.998199141280423,
+    "lng": 105.83108977965168
+  },
+  {
+    "id": 8,
+    "name": "Tòa nhà 8",
+    "address": "Ngọc Hồi",
+    "representative": "bc",
+    "phone": "0978001234",
+    "cccd": "22222222222",
+    "cccdDate": "30/08/2024",
+    "lat": 20.99779848665526,
+    "lng": 105.83170115947725
+  },
+  {
+    "id": 9,
+    "name": "Tòa nhà MDHI",
+    "address": "Lê Trọng Tấn, Thanh Xuân, Hà Nội",
+    "representative": "Nguyễn Văn A",
+    "phone": "1234567891",
+    "cccd": "11111111111",
+    "cccdDate": "27/08/2024",
+    "lat": 20.997277628623184,
+    "lng": 105.82907260528093
+  }
+]
